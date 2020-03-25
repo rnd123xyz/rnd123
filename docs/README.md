@@ -1,7 +1,3 @@
-layout: page
-title: "PAGE TITLE"
-permalink: /
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rnd123xyz/rnd123-web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
